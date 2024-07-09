@@ -1,0 +1,23 @@
+
+ion-content{
+    --ion-background-color: rgb(230,187,246) linear-gradient(90deg, rgba(230,187,246,1) 0%, rgb(62, 95, 171) 52%, rgb(43, 8, 92) 100%);
+  }
+  ion-item{
+    --ion-background-color:transparent!important
+  }
+  p{color: white;}
+  h1,h2{color: white;font-weight: bold;}
+  
+  .icon{font-size: 200px; padding-top: 50px;}
+  .sunny { color: yellow;}
+  .derece{font-size: 80px; margin: 0;}
+  .ruzgarYonu{ transform: rotate(67deg);}
+  .icon p{font-size: 20px;}
+  .cloudy{color: white;}
+  .flash{color: gold;}
+  .rainy{color: skyblue;}
+  .thunderstorm{color: gold;}
+  .liste ion-icon{font-size: 20px;}
+  .like{font-size: 30px;color:white; padding-right: 20px;}
+  
+  

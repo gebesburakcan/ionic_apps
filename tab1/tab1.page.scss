@@ -1,0 +1,85 @@
+
+ion-content{
+    --ion-background-color: linear-gradient(90deg, rgb(160, 158, 196) 0%, rgba(43,90,227,1) 0%, rgba(84,143,194,1) 100%);
+}
+
+ion-list{
+    --ion-background-color: transparent!important;
+}
+
+ion-label {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.searchTitle {
+    color: blanchedalmond;
+    font-size: 34px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.searchBar {
+    font-size: 60px;
+}
+
+.weather-card {
+    padding: 12px;
+    margin-bottom: 8px;
+}
+
+.card-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.location-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.location-text {
+    display: flex;
+    align-items: baseline;
+}
+
+.city {
+    font-size: 24px;
+}
+
+.country {
+    font-size: 16px;
+    color: gray;
+    margin-left: 8px;
+}
+
+.weatherDescription {
+    font-size: 14px;
+    color:dodgerblue;
+    margin-top: 4px;
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.cardMainIcon {
+    font-size: 46px;
+    margin-right: 35px;
+    color: yellow;
+}
+
+.itemIcon {
+    font-size: 32px;
+    color:red;
+}
+
+.location-deg{
+    font-size: 42;
+    color:dodgerblue;
+    margin-right: 20px;
+}
